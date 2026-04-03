@@ -14,7 +14,7 @@ public class Loan {
 
     public void display() {
         System.out.println("Loan ID: " + loanId);
-        System.out.println("Name: " + name);
-        System.out.println("Amount: " + amount);
+        System.out.println("Customer Name: " + name);
+        System.out.println("Loan Amount: " + amount);
     }
 }
